@@ -1,8 +1,10 @@
 # Yufan Zhang
 
-![HEADSHOT](./img/headshot_yufan.jpg){: style="height:200px"}
+### *SciEcon Lab Incubator Program Interim Co-Chair, SciEcon Inaugural Leadership*
 
-**Yufan Zhang (Bruce)** is a rising senior student at Duke Kunshan University (DKU), where he is pursuing in a degree in Data Science (BS). He has a solid knowledge foundation of Data Science, Computer Science, and Blockchain Technology. 
+<!-- ![HEADSHOT](./assets/img/headshot_yufan.jpg){: style="height:200px"} -->
+
+> **Yufan Zhang (Bruce)** is a rising senior student at Duke Kunshan University (DKU), where he is pursuing in a degree in Data Science (BS). He has a solid knowledge foundation of Data Science, Computer Science, and Blockchain Technology. 
 He has great enthusiasm for applying computational strategies to generate innovation and advance society. He has participated in several interdisciplinary research projects including few-shot multilingual font style transfer using GAN-based models supervised by Prof. Peng Sun, and using AlphaFold and GNN to predict catalytic efficiency of enzymes supervised by Prof. Huansheng Cao. 
 He is now working on a blockchain-related project supervised by Prof. Luyao Zhang and Prof. Xin Tong on ethical issues in NFT design and marketplace. Yufan is a powerful force in the workplace and research teams using his positive attitude and tireless energy to encourage others to work hard and succeed.
 
